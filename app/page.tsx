@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="space-y-6">
       <h1 className={`${onest.className} text-6xl font-bold`}>
-        Hi, I'm Johanny
+        Hi, I'm Johanny A. Rodriguez 
       </h1>
       <p className="text-xl">
         I'm a passionate web developer who loves creating exceptional digital
