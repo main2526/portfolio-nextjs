@@ -2,27 +2,29 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 
 const skills = [
   {
-    category: "Desarrollo Frontend",
-    technologies: ["React", "Next.js", "TypeScript", "CSS/Sass", "Responsive Design"],
+    category: "Web Development",
+    technologies: ["React", "Next.js", "TypeScript", "TailwindCSS", "Responsive Design"],
+  },
+  
+  {
+    category: "Databases",
+    technologies: ["SqlServer", "PostgreSQL", "MySQL"],
   },
   {
-    category: "Desarrollo Backend",
-    technologies: ["Node.js", "Express", "GraphQL", "RESTful APIs"],
+    category: "Gamer Development Experiments with Unity Technologies",
+    technologies: ["C#", "Blender", "Audacity",  ],
   },
+
   {
-    category: "Bases de Datos",
-    technologies: ["MongoDB", "PostgreSQL", "MySQL"],
-  },
-  {
-    category: "Herramientas y Metodologías",
-    technologies: ["Git", "Agile/Scrum", "Jest", "Webpack", "CI/CD"],
+    category: "Learning Davinci Resolve",
+    technologies: ["Sounds", "Fusion", "Effects Advanced",  ],
   },
 ]
 
 export default function Skills() {
   return (
     <div className="space-y-6">
-      <h1 className="text-4xl font-bold">Mis Habilidades</h1>
+      <h1 className="text-4xl font-bold">My skills</h1>
       <div className="grid gap-6 md:grid-cols-2">
         {skills.map((skillGroup) => (
           <Card key={skillGroup.category}>

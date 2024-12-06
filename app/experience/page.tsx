@@ -2,22 +2,22 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const experiences = [
   {
-    title: "Senior Frontend Developer",
-    company: "Tech Innovators Inc.",
-    period: "2020 - Presente",
-    description: "Lideré el desarrollo de aplicaciones web de alto rendimiento utilizando React y Next.js.",
+    title: "Junior Frontend Developer",
+    company: "My House 🤣",
+    period: "2024 - Presente",
+    description: "I am a person who always seeks to improve himself.",
   },
   {
-    title: "Full Stack Developer",
-    company: "Digital Solutions Ltd.",
-    period: "2018 - 2020",
-    description: "Desarrollé y mantuve aplicaciones web full-stack utilizando el stack MERN.",
+    title: "Video Game Developer",
+    company: "BootsDev-X Productions",
+    period: "2020 - Present",
+    description: "I am a person who always seeks to improve himself.",
   },
   {
-    title: "Junior Web Developer",
+    title: "Learning Davinci Resolve",
     company: "WebCraft Agency",
     period: "2016 - 2018",
-    description: "Colaboré en el desarrollo de sitios web responsivos para diversos clientes.",
+    description: "I am improving every day to be the best at what I do well.",
   },
 ]
 

@@ -3,16 +3,16 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 const projects = [
   {
     title: "E-commerce Platform",
-    description: "Una plataforma de comercio electrónico completa construida con Next.js y Stripe.",
+    description: "A complete eCommerce platform built with Next.js and Stripe",
     tech: "Next.js, React, Stripe, Tailwind CSS",
   },
   {
-    title: "Task Management App",
-    description: "Una aplicación de gestión de tareas con características de colaboración en tiempo real.",
-    tech: "React, Firebase, Material-UI",
+    title: "Netflix Clone",
+    description: "A task management app with real-time collaboration features.",
+    tech: "React, Redux, Tailwind CSS, NextAuth.js",
   },
   {
-    title: "Portfolio Website",
+    title: "Closely",
     description: "Un sitio web de portfolio personalizado y responsive para un fotógrafo.",
     tech: "Gatsby.js, GraphQL, Styled Components",
   },
