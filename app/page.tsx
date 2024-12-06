@@ -32,7 +32,7 @@ export default function Home() {
           With over 1 year of experience in web development, I specialize in creating modern and efficient web applications using the latest technologies
           </p>
         <Button className="mt-7">    
-          <Link href="/proyectos" >See my works</Link>
+          <Link href="/projects" >See my works</Link>
           </Button>  
           
         </CardContent>
