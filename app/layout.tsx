@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import { Onest } from "next/font/google";
 import "./globals.css";
 import { Sidebar } from "@/components/sidebar";
